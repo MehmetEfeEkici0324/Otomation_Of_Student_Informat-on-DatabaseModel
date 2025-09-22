@@ -1,0 +1,11 @@
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\bin\Debug\StudentNotes.exe.config
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\bin\Debug\StudentNotes.exe
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\bin\Debug\StudentNotes.pdb
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\obj\Debug\StudentNotes.csproj.AssemblyReference.cache
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\obj\Debug\StudentNotes.Form1.resources
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\obj\Debug\StudentNotes.Properties.Resources.resources
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\obj\Debug\StudentNotes.csproj.GenerateResource.cache
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\obj\Debug\StudentNotes.csproj.CoreCompileInputs.cache
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\obj\Debug\StudentNotes.exe
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\obj\Debug\StudentNotes.pdb
+C:\Users\MDH\Desktop\yazılıim\csharp\StudentNotes\obj\Debug\StudentNotes.exe.config
